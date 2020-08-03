@@ -2,4 +2,4 @@
 This repository maintains Deep learning papers and its implementation.
 
 # **Note**
-If any information or concepts are misinformed or misleading, kindly raise the issue.
+If any information or concept is misinformed or misleading, kindly raise the issue.
