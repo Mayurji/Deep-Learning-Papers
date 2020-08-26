@@ -12,4 +12,4 @@
 ![Loss vs Iteration](Images/loss_vs_iterations.png)
   
 ### **Result**
-  [GAN's Result](Images/gans_result.png)
+![GAN's Result](Images/gans_result.png)
