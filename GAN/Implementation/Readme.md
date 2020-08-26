@@ -6,7 +6,7 @@
 
 ### **Execution**
 
-  ![Execution]('Images/execution.jpeg')
+  ![Execution]('/Images/execution.jpeg')
   
 ### **Plot**
 
