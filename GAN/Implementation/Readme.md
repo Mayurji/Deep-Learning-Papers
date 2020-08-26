@@ -5,7 +5,7 @@
   [Camel Dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?pli=1&prefix=)
 
 ### **Execution**
-![Execution]('execution.png')
+![Execution](execution.png)
   
 ### **Plot**
 
