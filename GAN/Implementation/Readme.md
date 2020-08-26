@@ -6,7 +6,7 @@
 
 ### **Execution**
 
-  ![Execution]('https://github.com/Mayurji/Deep-Learning-Papers/blob/master/GAN/Images/execution.png')
+  ![Execution]('execution.png')
   
 ### **Plot**
 
