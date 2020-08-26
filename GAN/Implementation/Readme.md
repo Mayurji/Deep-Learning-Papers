@@ -9,7 +9,7 @@
   
 ### **Plot**
 
-  [Loss vs Iteration]('Images/loss_vs_iteration.png')
+![Loss vs Iteration](Images/loss_vs_iterations.png)
   
 ### **Result**
 
