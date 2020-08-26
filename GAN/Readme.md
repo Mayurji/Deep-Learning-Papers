@@ -1,3 +1,1 @@
-### **Find annotated paper on GAN**
-
-### Implementation will be updated soon...
+### **Find annotated paper and Implementation on GAN**
