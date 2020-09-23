@@ -2,6 +2,6 @@
 
 ### **Highlights**
 
-  * Identify the units that helps in classifying the diverse object classes in CNN’s
+  * In CNN's, identify the units that helps in classifying the diverse object classes.
   * In GANs, analyzing and identifying units, which when included or dropped helps in adding or removing an object from a scene.
   * Network Dissection is utilized to identify units of interest.
