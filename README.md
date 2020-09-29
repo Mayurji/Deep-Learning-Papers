@@ -1,4 +1,5 @@
-![Deep Learning Papers](dlpaper.jpeg)
+![Deep Learning Papers](dlpaper.jpg)
+
 # **Deep-Learning-Papers**
 This repository maintains Deep learning papers and its implementation.
 
