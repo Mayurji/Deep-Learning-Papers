@@ -1,5 +1,4 @@
 ## [**Original Paper**](https://arxiv.org/abs/2009.05041) by [**David and Team**](https://github.com/davidbau/dissect)
-
 ## ![DNN Units](Images/title.png)
 
 ### **Role of Units in Progressive GAN**
