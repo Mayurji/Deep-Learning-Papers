@@ -2,6 +2,10 @@
 
 ![IIC](Image/title.png)
 
-![Model Architecture](Image/model.png)
+<p align="center">
+  <img src="https://github.com/Mayurji/Deep-Learning-Papers/blob/master/Invariant Information Clustering/Image/model.png" alt="Sublime's custom image"/>
+</p>
 
-![Result](Image/result.png)
+<p align="center">
+  <img src="https://github.com/Mayurji/Deep-Learning-Papers/blob/master//Invariant Information Clustering/Image/result.png" alt="Sublime's custom image"/>
+</p>
