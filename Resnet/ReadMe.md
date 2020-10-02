@@ -1,4 +1,4 @@
-## [**Original Paper**](https://arxiv.org/pdf/1512.03385.pdf)
+## [**Deep Residual Learning for Image Recognition**](https://arxiv.org/pdf/1512.03385.pdf)
 
 ## [ResNet](Images/title.png)
 
