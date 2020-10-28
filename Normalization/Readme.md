@@ -2,8 +2,7 @@
 
 Some question it answer are follows
 
-* What are the main motivations behind different normal-
-ization methods in DNNs, and how can we present a taxonomy
+* What are the main motivations behind different normalization methods in DNNs, and how can we present a taxonomy
 for understanding the similarities and differences between a wide
 variety of approaches?
 
