@@ -16,4 +16,4 @@ insights behind them?
 
 Glossary: 
 [Hessian Matrix](https://en.wikipedia.org/wiki/Hessian_matrix), [Fisher Information Matrix](https://en.wikipedia.org/wiki/Fisher_information), [Kronecker Product](https://en.wikipedia.org/wiki/Kronecker_product), [Whitening Matrix](https://en.wikipedia.org/wiki/Whitening_transformation), [Whitening Data](https://www.quora.com/What-is-whitening-of-data-in-Neural-Networks), [How Batch Normalization helps](https://www.quora.com/Why-does-batch-normalization-help),
-[Why centering a variables in important](https://www.goldsteinepi.com/blog/thewhyandwhenofcenteringcontinuouspredictorsinregressionmodeling/index.html)
+[Why centering variables in important](https://www.goldsteinepi.com/blog/thewhyandwhenofcenteringcontinuouspredictorsinregressionmodeling/index.html)
