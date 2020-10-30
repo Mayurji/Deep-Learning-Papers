@@ -15,4 +15,4 @@ normalization techniques for different tasks, and what are the main
 insights behind them?
 
 Glossary: 
-[Hessian Matrix](https://en.wikipedia.org/wiki/Hessian_matrix), [Fisher Information Matrix](https://en.wikipedia.org/wiki/Fisher_information), [Kronecker Product](https://en.wikipedia.org/wiki/Kronecker_product), [Whitening Matrix](https://en.wikipedia.org/wiki/Whitening_transformation)
+[Hessian Matrix](https://en.wikipedia.org/wiki/Hessian_matrix), [Fisher Information Matrix](https://en.wikipedia.org/wiki/Fisher_information), [Kronecker Product](https://en.wikipedia.org/wiki/Kronecker_product), [Whitening Matrix](https://en.wikipedia.org/wiki/Whitening_transformation), [Whitening Data](https://www.quora.com/What-is-whitening-of-data-in-Neural-Networks)
